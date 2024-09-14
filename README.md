@@ -52,8 +52,7 @@ Serverless are also knows as Faas (Functions as a Service)
 ### Compute:
 These are the different compute services provided by Cloud providers.
 
-| Vms or Group of Vms (Iaas) | Paas | Container | Container orchestration
-(For microservices) | Faas |
+| Vms or Group of Vms (Iaas) | Paas | Container | Container orchestration (For microservices) | Faas |
 | --- | --- | --- | --- | --- |
 | EC2, ASG, ELB | EBS(Bean Stalk) | AWS Fargate | AWS ECS, or AWS EKS  | AWS Lambda |
 |  |  |  |  |  |
